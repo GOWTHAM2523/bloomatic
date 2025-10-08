@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.34d8f683.css",
-    "main.js": "/static/js/main.9a4a160c.js",
+    "main.js": "/static/js/main.71be4182.js",
     "static/media/Garland_Machine.mp4": "/static/media/Garland_Machine.0c43968792d2b70bd7fd.mp4",
     "static/media/about.png": "/static/media/about.0f2d4f725e0e91917554.png",
     "static/media/Innovation.png": "/static/media/Innovation.0e409c7f7b4758cf6a4a.png",
@@ -9,10 +9,10 @@
     "static/media/header_logo.png": "/static/media/header_logo.49233699edec669301ed.png",
     "index.html": "/index.html",
     "main.34d8f683.css.map": "/static/css/main.34d8f683.css.map",
-    "main.9a4a160c.js.map": "/static/js/main.9a4a160c.js.map"
+    "main.71be4182.js.map": "/static/js/main.71be4182.js.map"
   },
   "entrypoints": [
     "static/css/main.34d8f683.css",
-    "static/js/main.9a4a160c.js"
+    "static/js/main.71be4182.js"
   ]
 }
