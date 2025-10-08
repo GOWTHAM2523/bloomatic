@@ -1,18 +1,18 @@
 {
   "files": {
     "main.css": "/static/css/main.34d8f683.css",
-    "main.js": "/static/js/main.159ef2e0.js",
-    "static/media/Garland_Machine.mp4": "/static/media/Garland_Machine.122f2886d4aec765890d.mp4",
+    "main.js": "/static/js/main.9a4a160c.js",
+    "static/media/Garland_Machine.mp4": "/static/media/Garland_Machine.0c43968792d2b70bd7fd.mp4",
     "static/media/about.png": "/static/media/about.0f2d4f725e0e91917554.png",
     "static/media/Innovation.png": "/static/media/Innovation.0e409c7f7b4758cf6a4a.png",
     "static/media/hero_banner.png": "/static/media/hero_banner.92c86dc9dd87a03b9ae9.png",
     "static/media/header_logo.png": "/static/media/header_logo.49233699edec669301ed.png",
     "index.html": "/index.html",
     "main.34d8f683.css.map": "/static/css/main.34d8f683.css.map",
-    "main.159ef2e0.js.map": "/static/js/main.159ef2e0.js.map"
+    "main.9a4a160c.js.map": "/static/js/main.9a4a160c.js.map"
   },
   "entrypoints": [
     "static/css/main.34d8f683.css",
-    "static/js/main.159ef2e0.js"
+    "static/js/main.9a4a160c.js"
   ]
 }
